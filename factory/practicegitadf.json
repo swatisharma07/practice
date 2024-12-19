@@ -1,0 +1,9 @@
+{
+	"name": "practicegitadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84247a41-a438-4da2-a11c-b3a5382e3a87",
+		"tenantId": "ca60fa29-1584-41eb-b9df-48250b6f84b6"
+	}
+}
